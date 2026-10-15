@@ -37,19 +37,19 @@ Complete the puzzles to unlock doors and continue progressing through the experi
 Room-1
 
 
-<img width="1917" height="832" alt="Screenshot 2026-10-15 143524" src="https://github.com/user-attachments/assets/90c95705-8f05-43a5-8dc4-59de3e529f35" />
+<img width="1917" height="830" alt="Screenshot 2026-10-15 143058" src="https://github.com/user-attachments/assets/40e456fb-9868-4bf6-b079-1f47ed82d961" />
 Room-2
 
 
-<img width="1917" height="830" alt="Screenshot 2026-10-15 143058" src="https://github.com/user-attachments/assets/40e456fb-9868-4bf6-b079-1f47ed82d961" />
+<img width="1917" height="828" alt="Screenshot 2026-10-15 143125" src="https://github.com/user-attachments/assets/c40468ac-ee00-41e7-b956-134aa70d2c92" />
 Room-3
 
 
-<img width="1917" height="828" alt="Screenshot 2026-10-15 143125" src="https://github.com/user-attachments/assets/c40468ac-ee00-41e7-b956-134aa70d2c92" />
+<img width="1917" height="827" alt="Screenshot 2026-10-15 143331" src="https://github.com/user-attachments/assets/2bfec6db-e5c9-43b6-bf99-be3db7a82877" />
 Room-4
 
 
-<img width="1917" height="827" alt="Screenshot 2026-10-15 143331" src="https://github.com/user-attachments/assets/2bfec6db-e5c9-43b6-bf99-be3db7a82877" />
+<img width="1917" height="832" alt="Screenshot 2026-10-15 143524" src="https://github.com/user-attachments/assets/90c95705-8f05-43a5-8dc4-59de3e529f35" />
 Room-5
 
 
